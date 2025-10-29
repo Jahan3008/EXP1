@@ -1,6 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
 # Name :  JAHAN J
-# Reg No : 212224220042
+# Reg No : 212224220040
 
 # AIM:
 To draw the UML diagram for ATM and Banking System
